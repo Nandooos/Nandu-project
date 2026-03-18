@@ -32,6 +32,7 @@ It leverages AI-driven resume screening, voice/video interviews, behavioral anal
 - **Candidates**: Freshers, experienced professionals, technical & non-technical job seekers  
 - **Admins**: Platform administrators  
 
----
-
-
+--
+ 
+## Github repository link
+https://github.com/Nandooos/Nandu-project.git
