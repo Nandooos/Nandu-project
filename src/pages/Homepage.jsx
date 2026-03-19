@@ -20,13 +20,13 @@ const HomePage = () => {
         <Card
           title="Frontend Developer"
           description="Build modern UI with React."
-         
+          image="/images/frontend.jpg"
           buttonLabel="Apply Now"
         />
         <Card
           title="Backend Developer"
           description="Work with Node.js and databases."
-          
+          image="/images/backend.jpg"
           buttonLabel="Apply Now"
         />
       </main>
