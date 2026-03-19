@@ -6,7 +6,7 @@ It leverages AI-driven resume screening, voice/video interviews, behavioral anal
 ---
 
 ## 🚀 Project Overview
-- AI-based Applicant Tracking System (ATS)
+- AI-based Applicant Tracking System (ATS) 
 - Automated AI voice & video calls
 - Multilingual, gender-based voice selection
 - Smart interview scheduling & reminders
@@ -15,7 +15,7 @@ It leverages AI-driven resume screening, voice/video interviews, behavioral anal
 - Recruiter dashboards with analytics
 - Secure compliance & consent management
 
----
+---   
 
 ## 🎯 Goals & Objectives
 - Reduce manual CV screening
